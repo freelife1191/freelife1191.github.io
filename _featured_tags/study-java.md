@@ -5,5 +5,5 @@ slug: java
 category: study
 menu: false
 order: 2
-header-img: "/img/git-logo.png"
+header-img: "/img/java-logo.png"
 ---
