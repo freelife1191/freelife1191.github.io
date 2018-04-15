@@ -49,17 +49,18 @@ comments: true
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$2^4\times 3\times 5 = 240$$
 
 ### 세 수의 최대공약수, 최소공배수 구하는 방법 차이 구분
-1. **최대공약수** -> `반드시 세 수의 공약수로` 나눈다
-2. **최소공배수** -> `두 수의 공약수로도` 나누어준다
+- _최대공약수_ -> `반드시 세 수의 공약수로` 나눈다
 
-$3$ | $18$ &nbsp;$27$ &nbsp;$36$<br>
-$3$ | &nbsp;&nbsp;$6$ &nbsp;&nbsp;&nbsp;$9$ &nbsp;$12$<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$2$&nbsp;&nbsp;&nbsp;&nbsp;$3$&nbsp;&nbsp;&nbsp;&nbsp;$4$<br>
-`최대공약수` $3\times 3 = 9$
+$$3$$ | $$18$$ &nbsp;$$27$$ &nbsp;$$36$$<br>
+$$3$$ | &nbsp;&nbsp;$$6$$ &nbsp;&nbsp;&nbsp;$$9$$ &nbsp;$$12$$<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$2$$&nbsp;&nbsp;&nbsp;&nbsp;$$3$$&nbsp;&nbsp;&nbsp;&nbsp;$$4$$<br>
+`최대공약수` $$3\times 3 = 9$$
 
-$3$ | $18$ &nbsp;$27$ &nbsp;$36$<br>
-$3$ | &nbsp;&nbsp;$6$ &nbsp;&nbsp;&nbsp;$9$ &nbsp;$12$<br>
-$2$ | &nbsp;&nbsp;$2$&nbsp;&nbsp;&nbsp;&nbsp;$3$&nbsp;&nbsp;&nbsp;&nbsp;$4$<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$1$&nbsp;&nbsp;&nbsp;&nbsp;$3$&nbsp;&nbsp;&nbsp;&nbsp;$2$<br>
-`최소공배수` $3\times 3\times 2\times 1\times 3\times 2 = 108$
+- _최소공배수_ -> `두 수의 공약수로도` 나누어준다
+
+$$3$$ | $$18$$ &nbsp;$$27$$ &nbsp;$$36$$<br>
+$$3$$ | &nbsp;&nbsp;$$6$$ &nbsp;&nbsp;&nbsp;$$9$$ &nbsp;$$12$$<br>
+$$2$$ | &nbsp;&nbsp;$$2$$&nbsp;&nbsp;&nbsp;&nbsp;$$3$$&nbsp;&nbsp;&nbsp;&nbsp;$$4$$<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$1$$&nbsp;&nbsp;&nbsp;&nbsp;$$3$$&nbsp;&nbsp;&nbsp;&nbsp;$$2$$<br>
+`최소공배수` $$3\times 3\times 2\times 1\times 3\times 2 = 108$$
 
