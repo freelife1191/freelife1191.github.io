@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[기초수학]3-1.공약수, 최대공약수"
+title: "[기초수학]3.공약수, 최대공약수"
 subtitle: "공약수, 최대공약수"
 categories: study
 tags: math
