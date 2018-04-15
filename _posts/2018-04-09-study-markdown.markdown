@@ -234,14 +234,19 @@ __double underscores__
 ~~cancelline~~
 ```
 *single asterisks*
+
 _single underscores_
+
 **double asterisks**
+
 __double underscores__
+
 ++underline++
+
 ~~cancelline~~
 
 ## 2.8. 이미지
-```
+```markdown
 ![Alt text](/path/to/img.jpg)
 ![Alt text](/path/to/img.jpg "Optional title")
 ```
