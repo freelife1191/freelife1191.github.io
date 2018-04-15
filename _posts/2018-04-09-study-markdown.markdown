@@ -216,23 +216,24 @@ syntax: [Title](link)
 Link: [Google](https://google.com "google link")
 
 * 자동연결
-```
-<http://example.com/>
-<address@example.com>
-```
+
+    <http://example.com/>
+    <address@example.com>
+
 
 <http://example.com>
+
 <address@example.com>
 
 ## 2.7. 강조
-```
-*single asterisks*
-_single underscores_
-**double asterisks**
-__double underscores__
-++underline++
-~~cancelline~~
-```
+
+    *single asterisks*
+    _single underscores_
+    **double asterisks**
+    __double underscores__
+    ++underline++
+    ~~cancelline~~
+
 *single asterisks*
 
 _single underscores_
@@ -246,10 +247,10 @@ __double underscores__
 ~~cancelline~~
 
 ## 2.8. 이미지
-```markdown
-![Alt text](/path/to/img.jpg)
-![Alt text](/path/to/img.jpg "Optional title")
-```
+
+    ![Alt text](/path/to/img.jpg)
+    ![Alt text](/path/to/img.jpg "Optional title")
+
 ![석촌호수 러버덕](http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0)
 ![석촌호수 러버덕](http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0 "RubberDuck")
 
