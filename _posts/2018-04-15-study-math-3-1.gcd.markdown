@@ -24,10 +24,12 @@ comments: true
 
 ### 최대공약수 구하기
 1. 나눗셈 이용<br>
-    2 | 28 42<br>
-    7 | 14 21<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2&nbsp;&nbsp;&nbsp;3<br>
-$$2\times 7=14$$
+> 왼쪽에 나눈 수를 곱한수가 최대공약수 이다
+
+  $$2$$ | $$28$$ $$42$$<br>
+  $$7$$ | $$14$$ $$21$$<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$$2$$&nbsp;&nbsp;&nbsp;$$3$$<br>
+  $$2\times 7=14$$
 
 2. 소인수분해 이용<br>
 > 밑이 같은 거듭제곱 중에서 `지수가 같거나 작은 것`을 택해 곱한다
