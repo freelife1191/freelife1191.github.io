@@ -10,43 +10,15 @@ comments: true
 -------------------------------
 ## 1. 소인수
 > 소수인 인수
+
 ## 2. 소인수분해
 `예시) ` $$ 10 = 2\times 5$$
-
 > 어떤 자연수를 소인수들만의 곱으로 나타낸 것
 > `※ 반드시 소인수로만!`
 
-1) 12의 인수(약수) : 1, 2, 3, 4, 6, 12
-2) 12의 소인수(소수) : 2, 3
-3) 12를 소인수 분해하면?
-
-$$ 12 = 2\times 6 $$ (X)
-$$ 12 = 3\times 4 $$ (X)
-$$ 12 = 2\times 2\times 3 = 2^2\times 3 $$ (O)
-
-### Diagrams
-#### Flow charts
-```flow
-st=>start: Start
-e=>end
-op=>operation: My Operation
-cond=>condition: Yes or No?
-
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
-#### Sequence diagrams 
-```sequence
-Alice->Bob: Hello Bob, how are you?
-Note right of Bob: Bob thinks
-Bob-->Alice: I am good thanks!
-```
-
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
+1) 12의 인수(약수) : 1, 2, 3, 4, 6, 12<br>
+2) 12의 소인수(소수) : 2, 3<br>
+3) 12를 소인수 분해하면?<br>
+$$ 12 = 2\times 6 $$ (X)<br>
+$$ 12 = 3\times 4 $$ (X)<br>
+$$ 12 = 2\times 2\times 3 = 2^2\times 3 $$ (O)<br>
