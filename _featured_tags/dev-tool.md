@@ -2,7 +2,7 @@
 layout: tag-blog
 title: Tools
 slug: tools
-category: devlog
+category: dev
 menu: false
 order: 1
 ---
