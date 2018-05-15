@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: Data
-slug: data
+title: DataAnalysis
+slug: dataAnalysis
 category: devlog
 menu: false
 order: 2
