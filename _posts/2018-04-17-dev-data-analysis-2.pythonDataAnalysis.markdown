@@ -3,7 +3,7 @@ layout: post
 title: "[Python Data Analysis]2.왜 Python인가?"
 subtitle: "왜 Python인가?"
 categories: dev
-tags: data-analysis
+tags: dataAnalysis
 comments: true
 ---
 

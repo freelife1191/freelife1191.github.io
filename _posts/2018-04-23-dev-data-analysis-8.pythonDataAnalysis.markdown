@@ -3,7 +3,7 @@ layout: post
 title: "[Python Data Analysis]8.numpy ndarray 이해하기"
 subtitle: "numpy ndarray 이해하기"
 categories: dev
-tags: data-analysis
+tags: dataAnalysis
 comments: true
 ---
 

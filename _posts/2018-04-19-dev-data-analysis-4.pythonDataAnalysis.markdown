@@ -3,7 +3,7 @@ layout: post
 title: "[Python Data Analysis]4.데이터 분석 환경 구성"
 subtitle: "데이터 분석이란?"
 categories: dev
-tags: data-analysis
+tags: dataAnalysis
 comments: true
 ---
 

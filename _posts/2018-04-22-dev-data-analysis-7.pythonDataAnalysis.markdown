@@ -3,7 +3,7 @@ layout: post
 title: "[Python Data Analysis]7.IPython Notebook 살펴보기"
 subtitle: "IPython Notebook 살펴보기"
 categories: dev
-tags: data-analysis
+tags: dataAnalysis
 comments: true
 ---
 

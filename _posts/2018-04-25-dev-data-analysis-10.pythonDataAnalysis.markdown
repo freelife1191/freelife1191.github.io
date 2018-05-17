@@ -3,7 +3,7 @@ layout: post
 title: "[Python Data Analysis]10.array 관련 함수 사용하기"
 subtitle: "array 관련 함수 사용하기"
 categories: dev
-tags: data-analysis
+tags: dataAnalysis
 comments: true
 ---
 
