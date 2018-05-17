@@ -3,7 +3,7 @@ layout: post
 title: "[Python Data Analysis]18.플롯 모양 변형하기"
 subtitle: "Figure, subplots 및 axes"
 categories: dev
-tags: data-analysis
+tags: dataAnalysis
 comments: true
 ---
 

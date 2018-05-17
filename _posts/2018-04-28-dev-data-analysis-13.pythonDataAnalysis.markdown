@@ -3,7 +3,7 @@ layout: post
 title: "[Python Data Analysis]13.DataFrame 인덱싱 이해하기"
 subtitle: "DataFrame 인덱싱 이해하기"
 categories: dev
-tags: data-analysis
+tags: dataAnalysis
 comments: true
 ---
 

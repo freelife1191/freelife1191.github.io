@@ -3,7 +3,7 @@ layout: post
 title: "[Python Data Analysis]11.numpy를 사용한 데이터 분석 맛보기"
 subtitle: "MovieLens 1M 데이터셋 분석"
 categories: dev
-tags: data-analysis
+tags: dataAnalysis
 comments: true
 ---
 

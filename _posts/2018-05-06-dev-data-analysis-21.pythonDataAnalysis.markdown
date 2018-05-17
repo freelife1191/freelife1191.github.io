@@ -3,7 +3,7 @@ layout: post
 title: "[Python Data Analysis]21.여러 개의 DataFrame 합치기"
 subtitle: "여러 개의 DataFrame 합치기"
 categories: dev
-tags: data-analysis
+tags: dataAnalysis
 comments: true
 ---
 
