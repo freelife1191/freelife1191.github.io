@@ -3,7 +3,7 @@ layout: post
 title: "[Python Data Analysis]5.Python 데이터 분석 라이브러리 설치하기"
 subtitle: "Python 데이터 분석 라이브러리 설치하기"
 categories: dev
-tags: dataAnalysis
+tags: data_analysis
 comments: true
 ---
 

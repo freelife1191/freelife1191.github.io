@@ -3,7 +3,7 @@ layout: post
 title: "[Python Data Analysis]3.오리엔테이션, Python 개발 준비하기"
 subtitle: "오리엔테이션, Python 개발 준비하기"
 categories: dev
-tags: dataAnalysis
+tags: data_analysis
 comments: true
 ---
 

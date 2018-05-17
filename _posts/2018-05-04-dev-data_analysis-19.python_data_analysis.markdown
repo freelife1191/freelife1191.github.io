@@ -3,7 +3,7 @@ layout: post
 title: "[Python Data Analysis]19.matplotlib를 사용한 데이터 시각화 맛보기"
 subtitle: "Gammatplotlib를 사용한 데이터 시각화 맛보기"
 categories: dev
-tags: dataAnalysis
+tags: data_analysis
 comments: true
 ---
 

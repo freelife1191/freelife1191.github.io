@@ -3,7 +3,7 @@ layout: post
 title: "[Python Data Analysis]17.matplotlib의 플롯팅 함수 사용하기"
 subtitle: "matplotlib의 플롯팅 함수 사용하기"
 categories: dev
-tags: dataAnalysis
+tags: data_analysis
 comments: true
 ---
 

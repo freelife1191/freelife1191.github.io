@@ -3,7 +3,7 @@ layout: post
 title: "[Python Data Analysis]16.pandas를 사용한 데이터 분석 맛보기"
 subtitle: "Lending Club Loan 데이터셋 분석"
 categories: dev
-tags: dataAnalysis
+tags: data_analysis
 comments: true
 ---
 

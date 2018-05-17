@@ -3,7 +3,7 @@ layout: post
 title: "[Python Data Analysis]24.데이터 그룹화 함수 이해하기"
 subtitle: "데이터 그룹화 함수 이해하기"
 categories: dev
-tags: dataAnalysis
+tags: data_analysis
 comments: true
 ---
 

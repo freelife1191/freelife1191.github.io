@@ -3,7 +3,7 @@ layout: post
 title: "[Python Data Analysis]12.pandas의 고유한 자료구조"
 subtitle: "Series와 DataFrame 이해하기"
 categories: dev
-tags: dataAnalysis
+tags: data_analysis
 comments: true
 ---
 

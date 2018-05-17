@@ -3,7 +3,7 @@ layout: post
 title: "[Python Data Analysis]22.DataFrame 계층적 인덱싱 이해하기"
 subtitle: "DataFrame 계층적 인덱싱 이해하기"
 categories: dev
-tags: dataAnalysis
+tags: data_analysis
 comments: true
 ---
 

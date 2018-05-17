@@ -3,7 +3,7 @@ layout: post
 title: "[Python Data Analysis]14.DataFrame 이리저리 조작하기"
 subtitle: "DataFrame 이리저리 조작하기"
 categories: dev
-tags: dataAnalysis
+tags: data_analysis
 ---
 
 ## DataFrame 이리저리 조작하기

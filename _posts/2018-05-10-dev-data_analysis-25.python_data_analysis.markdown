@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "[Python Data Analysis]25.pandas의 그룹화 기능을 사용한 데이터 분석 맛보기
+title: "[Python Data Analysis]25.pandas의 그룹화 기능을 사용한 데이터 분석 맛보기"
 subtitle: "2016 US Election 데이터셋 분석"
 categories: dev
-tags: dataAnalysis
+tags: data_analysis
 comments: true
 ---
 

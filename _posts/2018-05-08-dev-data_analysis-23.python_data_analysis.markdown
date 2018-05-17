@@ -3,7 +3,7 @@ layout: post
 title: "[Python Data Analysis]23.DataFrame 데이터 변형하기"
 subtitle: "DataFrame 데이터 변형하기"
 categories: dev
-tags: dataAnalysis
+tags: data_analysis
 comments: true
 ---
 

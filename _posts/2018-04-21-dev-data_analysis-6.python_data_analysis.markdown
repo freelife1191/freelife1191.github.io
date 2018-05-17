@@ -3,7 +3,7 @@ layout: post
 title: "[Python Data Analysis]6.IPython 살펴보기"
 subtitle: "IPython 살펴보기"
 categories: dev
-tags: dataAnalysis
+tags: data_analysis
 comments: true
 ---
 

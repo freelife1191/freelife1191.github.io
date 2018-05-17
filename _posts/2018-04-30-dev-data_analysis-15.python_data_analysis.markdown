@@ -3,7 +3,7 @@ layout: post
 title: "[Python Data Analysis]15.DataFrame 데이터 분석용 함수 사용하기"
 subtitle: "DataFrame 데이터 분석용 함수 사용하기"
 categories: dev
-tags: dataAnalysis
+tags: data_analysis
 comments: true
 ---
 ## DataFrame 데이터 분석용 함수 사용하기
