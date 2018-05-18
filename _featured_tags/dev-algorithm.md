@@ -3,6 +3,6 @@ layout: tag-blog
 title: Algorithm
 slug: algorithm
 category: dev
-menu: true
+menu: false
 order: 1
 ---

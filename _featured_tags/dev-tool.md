@@ -3,6 +3,6 @@ layout: tag-blog
 title: Tools
 slug: tools
 category: dev
-menu: false
+menu: true
 order: 12
 ---

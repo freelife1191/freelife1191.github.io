@@ -3,6 +3,6 @@ layout: tag-blog
 title: MongoDB
 slug: mongodb
 category: dev
-menu: false
+menu: true
 order: 10
 ---

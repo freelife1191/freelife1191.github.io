@@ -3,6 +3,6 @@ layout: tag-blog
 title: React
 slug: react
 category: dev
-menu: false
+menu: true
 order: 8
 ---
