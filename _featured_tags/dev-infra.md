@@ -3,6 +3,6 @@ layout: tag-blog
 title: Infra
 slug: infra
 category: dev
-menu: true
+menu: false
 order: 2
 ---

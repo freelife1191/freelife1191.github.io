@@ -3,6 +3,6 @@ layout: tag-blog
 title: Jekyll
 slug: jekyll
 category: dev
-menu: true
+menu: false
 order: 12
 ---

@@ -3,7 +3,7 @@ layout: tag-blog
 title: JavaScript
 slug: javascript
 category: dev
-menu: true
+menu: false
 order: 5
 header-img: "/img/js-logo.png"
 ---
