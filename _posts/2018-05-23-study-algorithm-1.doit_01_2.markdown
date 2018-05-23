@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "[doit자료구조 알고리즘 입문]01-1 반복"
-subtitle: "01-1 반복"
+title: "[doit자료구조 알고리즘 입문]01-2 반복"
+subtitle: "01-2 반복"
 categories: study
 tags: algorithm
 comments: true
