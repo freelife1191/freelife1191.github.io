@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[BAEKJOON]2003 Python 및 Java 풀이"
+title: "[BAEKJOON]2003(수들의 합 2) Python 및 Java 풀이"
 subtitle: "2003 수들의 합 2 - 투포인터"
 categories: study
 tags: backjoon
