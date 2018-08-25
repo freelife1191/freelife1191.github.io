@@ -43,3 +43,6 @@ node_modules
 .sass-cache
 .jekyll-metadata
 *.gem
+
+# File ignore
+package-lock.json
