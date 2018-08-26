@@ -122,6 +122,13 @@ BREAK!
 >   code
 >   ```
 
+## 코드블럭(Code Blocks)
+빈칸 4개로 코드블럭 시작
+```
+    코드 블럭
+```
+    코드 블럭
+
 ## 목록(List)
 
 `<ol>`, `<ul>` 목록 태그로 변환됩니다.
@@ -377,6 +384,41 @@ ___
 
 > 일반 줄비꿈이 동작하지 않는 환경(설정 및 버전에 따라)의 경우, ‘2번의 띄어쓰기’나 <br>를 활용할 수 있습니다.
 
+## 문자열 강조(Emphasis)
+
+각각 `<em>`, `<strong>`, `<del>` 태그로 변환됩니다.  
+밑줄은 `<u></u>` 태그로 변환됩니다.
+
+```
+*기울인 글씨1*
+_기울인 글씨2_
+**진한 글씨1**
+__진한 글씨2__
+**_이텔릭체_와 두껍게**
+~밑줄~
+~~취소선~~
+```
+*기울인 글씨1*  
+_기울인 글씨2_  
+**진한 글씨1**  
+__진한 글씨2__  
+**_이텔릭체_와 두껍게**  
+~밑줄~  
+~~취소선~~  
+
+## 할일 관리(Task Lists)
+체크박스를 표현하여 할일 관리를 할 수 있습니다. 표현하는 방식은 - [ ], - [x]로 사용합니다.
+```
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] 완료된 항목
+- [ ] 미완료 항목
+- [x] ~~삭제된 항목~~
+```
+- [x] @mentions, #refs, [links](), **formatting**, and ~~tags~~ supported
+- [x] 완료된 항목
+- [ ] 미완료 항목
+- [x] ~~삭제된 항목~~
+
 ## 원시 HTML(Raw HTML)
 
 마크다운 문법이 아닌 원시 HTML 문법을 사용할 수 있습니다.
@@ -434,26 +476,6 @@ ___
 [1]: https://github.com
 [참조 링크]: https://naver.com "네이버로 이동합니다!"
 
-## 강조(Emphasis)
-
-각각 `<em>`, `<strong>`, `<del>` 태그로 변환됩니다.
-
-밑줄을 입력하고 싶다면 `<u></u>` 태그를 사용하세요.
-
-```
-이텔릭체는 *별표(asterisks)* 혹은 _언더바(underscore)_를 사용하세요.
-두껍게는 **별표(asterisks)** 혹은 __언더바(underscore)__를 사용하세요.
-**_이텔릭체_와 두껍게**를 같이 사용할 수 있습니다.
-취소선은 ~~물결표시(tilde)~~를 사용하세요.
-<u>밑줄</u>은 `<u></u>`를 사용하세요.
-```
-
-이텔릭체는 *별표(asterisks)* 혹은 _언더바(underscore)_를 사용하세요.  
-두껍게는 **별표(asterisks)** 혹은 __언더바(underscore)__를 사용하세요.  
-**_이텔릭체_와 두껍게**를 같이 사용할 수 있습니다.  
-취소선은 ~~물결표시(tilde)~~를 사용하세요.  
-<u>밑줄</u>은 `<u></u>`를 사용하세요.  
-
 ## 이미지(Images)
 
 `<img>`로 변환됩니다.  
@@ -478,14 +500,69 @@ ___
 사이즈 조절 기능은 없기 때문에 `<img width="" height=""></img>`를 이용한다.
 
 ### 이미지에 링크
-
 마크다운 이미지 코드를 링크 코드로 묶어 줍니다.
-
 ```
 [![Vue](/images/vue.png)](https://kr.vuejs.org/)
 ```
-
 [![Vue](/images/vue.png)](https://kr.vuejs.org/)
+
+### 이미지 링크 고급
+Markdown 문서로 웹링크에 이미지 삽입이 가능합니다. 
+링크에 이미지를 합치면 아래와 같이 표시할 수 있습니다
+```
+[![the google logo][logo]][google]
+```
+위의 줄은 다음처럼 링크 정의와 함께 결합시킬 수 있습니다.
+
+```
+[logo]: http://www.google.com/images/logo.gif
+[google]: http://www.google.com/ "click to visit Google.com"
+```
+[![the google logo][logo]][google]
+
+[logo]: http://www.google.com/images/logo.gif
+
+[google]: http://www.google.com/ "click to visit Google.com"
+
+## 각주(Footnotes)
+```
+각주입니다 [^id]
+[^id]: 각주에 대한 설명. 
+```
+각주입니다 [^id]  
+[^id]: 각주에 대한 설명.
+
+## 이모티콘 자동 완성(Emoji autocomplete)
+:를 타이핑하면 이모티콘 추천 목록을 불러온다. :+1:
+
+## 이스케이프 문자 표기(Escape)
+이스케이프 문자는 `\`를 붙여 표기합니다.
+```
+\\      backslash
+\`      backtick
+\*      asterisk
+\_      underscore
+\{\}    curly braces
+\[\]    square brackets
+\(\)    parentheses
+\#      hash mark
+\+      plus sign
+\-      minus sign (hyphen)
+\.      dot
+\!      exclamation
+```
+\\      backslash  
+\`      backtick  
+\*      asterisk  
+\_      underscore  
+\{\}    curly braces  
+\[\]    square brackets  
+\(\)    parentheses  
+\#      hash mark  
+\+      plus sign  
+\-      minus sign (hyphen)  
+\.      dot  
+\!      exclamation  
 
 ****
 
